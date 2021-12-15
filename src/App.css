@@ -1,0 +1,12 @@
+.column {
+  float: left;
+}
+
+.categories, .carts {
+  width: 25%;
+}
+
+.products {
+  width: 50%;
+  
+}
